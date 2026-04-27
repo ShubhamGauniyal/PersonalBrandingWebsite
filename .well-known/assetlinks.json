@@ -1,0 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.app.dailymotorwash",
+      "sha256_cert_fingerprints": [
+        "5d:33:18:af:42:6b:f7:d9:a1:ab:02:e3:cc:c0:88:72:b3:d5:6e:4a:98:96:d5:da:cf:a1:72:2a:e6:42:f5:6e",
+        "e6:38:11:85:21:f5:57:e5:55:ae:d4:08:14:39:b3:d8:ec:f5:83:f4:7a:29:5e:b8:d7:30:12:af:d8:2a:35:5d"
+      ]
+    }
+  }
+]
