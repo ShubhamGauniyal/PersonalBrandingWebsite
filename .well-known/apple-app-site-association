@@ -2,8 +2,10 @@
   "applinks": {
     "details": [
       {
-        "appID": "TEAMID.com.app.dailymotorwash",
-        "paths": ["/refer*"]
+        "appID": "382DH668HT.com.app.dailymotorwash",
+        "paths": [
+          "/app*",
+          "/refer*"]
       }
     ]
   }
